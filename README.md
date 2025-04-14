@@ -1,4 +1,4 @@
-# 🚀 Dissident Finance
+# Dissident Finance
 
 ![Dissident repositories](https://github.com/dissident-labs/.github/blob/main/Dissident%20Repositories.png?raw=true)
 
